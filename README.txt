@@ -7,7 +7,7 @@
 2. Upload all files from this zip
 3. Go to **Settings → Pages → Source: main branch**
 4. Save — your site will be live at:
-   `https://<your-username>.github.io/<repo-name>/`
+   `https://devil136-star.github.io/Himanshu-s-Portfolio/`
 
 ### ✅ Netlify Deployment
 1. Go to https://app.netlify.com
@@ -30,3 +30,13 @@ Your portfolio already includes:
 - Smooth reveal animation
 
 Just customize text, Formspree URL and add more logs!
+
+
+
+
+
+
+
+
+
+
